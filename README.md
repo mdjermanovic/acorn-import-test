@@ -1,0 +1,1 @@
+# acorn-import-test
