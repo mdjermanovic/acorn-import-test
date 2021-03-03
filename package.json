@@ -1,0 +1,23 @@
+{
+  "name": "acorn-require-test",
+  "version": "1.0.0",
+  "description": "",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mdjermanovic/acorn-require-test.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mdjermanovic/acorn-require-test/issues"
+  },
+  "homepage": "https://github.com/mdjermanovic/acorn-require-test#readme",
+  "dependencies": {
+    "acorn": "^7.4.0"
+  }
+}
